@@ -1,0 +1,11 @@
+Installing activesupport 5.0.0.rc2 (was 5.0.0.rc1)
+Installing activemodel 5.0.0.rc2 (was 5.0.0.rc1)
+Installing activejob 5.0.0.rc2 (was 5.0.0.rc1)
+Installing activerecord 5.0.0.rc2 (was 5.0.0.rc1)
+Installing actionview 5.0.0.rc2 (was 5.0.0.rc1)
+Installing actionpack 5.0.0.rc2 (was 5.0.0.rc1)
+Installing actioncable 5.0.0.rc2 (was 5.0.0.rc1)
+Installing actionmailer 5.0.0.rc2 (was 5.0.0.rc1)
+Installing railties 5.0.0.rc2 (was 5.0.0.rc1)
+Installing rails 5.0.0.rc2 (was 5.0.0.rc1)
+
